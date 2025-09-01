@@ -1,0 +1,16 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4 
+seaborn==0.13.2
+scipy==1.13.1
+scikit-learn==1.5.1
+joblib==1.4.2
+
+tensorflow==2.16.1
+scikeras==0.13.0
+h5py==3.11.0
+
+yfinance==0.2.65
+python-bcb==0.3.3
+
+ipykernel==6.29.5
