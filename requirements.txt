@@ -29,6 +29,7 @@ fastjsonschema==2.21.1
 fonttools==4.55.3
 fqdn==1.5.1
 frozendict==2.4.6
+git-filter-repo==2.47.0
 grpcio==1.70.0
 grpcio-tools==1.70.0
 h11==0.14.0
