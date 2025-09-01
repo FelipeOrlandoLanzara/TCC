@@ -1,0 +1,23 @@
+{
+  "melhor_k": 2,
+  "scores": {
+    "2": {
+      "silhouette": 0.34741776351399023
+    },
+    "3": {
+      "silhouette": 0.23280656326307522
+    }
+  },
+  "grupos": {
+    "ABEV3": 0,
+    "B3SA3": 0,
+    "BBAS3": 0,
+    "BBDC4": 0,
+    "ELET3": 1,
+    "ITUB4": 0,
+    "PETR3": 0,
+    "PETR4": 0,
+    "SBSP3": 1,
+    "VALE3": 1
+  }
+}
