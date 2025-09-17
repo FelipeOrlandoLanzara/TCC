@@ -2,8 +2,7 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-*.h5
-*.keras
+
 *.npy
 *.pkl
 *.ckpt
@@ -14,8 +13,6 @@ node_modules/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-*.h5
-*.keras
 *.npy
 *.pkl
 *.ckpt
